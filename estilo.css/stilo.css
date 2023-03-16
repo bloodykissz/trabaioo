@@ -1,0 +1,31 @@
+body{
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgb(159, 235, 163));
+}
+p.two {
+    border-style: solid;
+    border-color: green;
+  }
+  fieldset{
+    border-style: solid;
+    border-color: rgb(48, 173, 17);
+  }
+  fieldset{
+        font-size: 20px;
+        color: rgb(25, 243, 25);
+        font-family: 'Times New Roman', Times, serif;
+        font-weight: bold;
+  }
+  .titulo{
+    color: red;
+    font-size: 25px;
+    outline-style: solid ;
+    outline-color: rgb(48, 173, 17);
+    background-color: rgb(255, 194, 204) ;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  .borda{
+    border-radius: 3px;
+    
+  }
+  
+  
